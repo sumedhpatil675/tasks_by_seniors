@@ -2,8 +2,17 @@
 """
 Created on Mon May 18 10:42:20 2020
 
-@author: Sumedh Patil
+@author: Sumedh Patil  Roll Number - 51910008
+
 """
+"""
+Aim : salary using Naïve Bayes Classifier. It will help understand the need of classifiers in
+ML for prediction. ( You must try and read about ML classifiers before starting)
+
+Algorithm to be used-
+Naïve Bayes algorithm for probabilistic prediction
+"""
+
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
